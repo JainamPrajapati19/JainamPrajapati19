@@ -1,3 +1,4 @@
+![ViewCount](https://views.whatilearened.today/views/github/JainamPrajapati19/JainamPrajapti19.svg?cache=remove)
 # 👋 Hi, I'm Jainam Prajapati !
 
 I'm currently pursuing a **B.Tech in Artificial Intelligence and Data Science**, with a passion for solving real-world problems using data-driven technologies.
